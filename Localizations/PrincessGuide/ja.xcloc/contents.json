@@ -1,7 +1,7 @@
 {
   "developmentRegion" : "en",
   "project" : "PrincessGuide.xcodeproj",
-  "targetLocale" : "ja",
+  "targetLocale" : "en",
   "toolInfo" : {
     "toolBuildNumber" : "14C18",
     "toolID" : "com.apple.dt.xcode",
